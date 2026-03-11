@@ -1,3 +1,9 @@
 [submodule "cpp"]
 	path = cpp
 	url = https://github.com/aoi-shanyrak/Data-Structures-Cpp.git
+[submodule "src/src/cpp"]
+	path = src/src/cpp
+	url = https://github.com/aoi-shanyrak/Data-Structures-Cpp.git
+[submodule "src/cpp"]
+	path = src/cpp
+	url = https://github.com/aoi-shanyrak/Data-Structures-Cpp.git
